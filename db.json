@@ -1,0 +1,177 @@
+{
+  "invoices": [
+    {
+      "id": 4,
+      "docno": "INV-09681",
+      "ref": "DO-09672",
+      "to": "Wei Mun Lam",
+      "uid": 4,
+      "date": "2020-11-27T16:00:00.000Z",
+      "due_date": "2020-11-27T16:00:00.000Z",
+      "paid": 276.1,
+      "due": 0,
+      "status": 1,
+      "sent": "",
+      "detail": [
+        {
+          "id": 1,
+          "item": "Item #1",
+          "qty": "1",
+          "price": "10",
+          "amount": "20"
+        },
+        {
+          "id": 2,
+          "item": "Item #2",
+          "qty": 1,
+          "price": 10,
+          "amount": 20
+        },
+        {
+          "id": 3,
+          "item": "Item #3",
+          "qty": 1,
+          "price": 10,
+          "amount": 20
+        },
+        {
+          "id": 4,
+          "item": "Item #4",
+          "qty": 1,
+          "price": 10,
+          "amount": 20
+        }
+      ],
+      "action_by": "ADMIN"
+    },
+    {
+      "id": 3,
+      "docno": "INV-09680",
+      "ref": "DO-09671",
+      "to": "Lim Shu Yi",
+      "uid": 3,
+      "date": "2020/12/14",
+      "due_date": "2020/12/14",
+      "paid": 365.6,
+      "due": 0,
+      "status": 2,
+      "sent": "",
+      "detail": [
+        {
+          "id": 1,
+          "item": "Item #1",
+          "qty": "1",
+          "price": "10",
+          "amount": "20"
+        },
+        {
+          "id": 2,
+          "item": "Item #2",
+          "qty": 1,
+          "price": 10,
+          "amount": 20
+        },
+        {
+          "id": 3,
+          "item": "Item #3",
+          "qty": 1,
+          "price": 10,
+          "amount": 20
+        },
+        {
+          "id": 4,
+          "item": "Item #7",
+          "qty": 1,
+          "price": 10,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "docno": "INV-09679",
+      "ref": "DO-09670",
+      "to": "Pang Jia Xian",
+      "uid": 2,
+      "date": "2020/12/14",
+      "due_date": "2020/12/14",
+      "paid": 263.75,
+      "due": 0,
+      "status": 2,
+      "sent": "",
+      "detail": [
+        {
+          "id": 1,
+          "item": "Item #1",
+          "qty": "1",
+          "price": "10",
+          "amount": "20"
+        },
+        {
+          "id": 2,
+          "item": "Item #2",
+          "qty": 1,
+          "price": 10,
+          "amount": 20
+        },
+        {
+          "id": 3,
+          "item": "Item #3",
+          "qty": 1,
+          "price": 10,
+          "amount": 20
+        },
+        {
+          "id": 4,
+          "item": "Item #7",
+          "qty": 1,
+          "price": 10,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "docno": "INV-09678",
+      "ref": "DO-09669",
+      "to": "Kan Pui Fun",
+      "uid": 1,
+      "date": "2020/12/14",
+      "due_date": "2020/12/14",
+      "paid": 160,
+      "due": 0,
+      "status": 2,
+      "sent": "",
+      "detail": [
+        {
+          "id": 1,
+          "item": "Item #1",
+          "qty": "1",
+          "price": "10",
+          "amount": "20"
+        },
+        {
+          "id": 2,
+          "item": "Item #2",
+          "qty": 1,
+          "price": 10,
+          "amount": 20
+        },
+        {
+          "id": 3,
+          "item": "Item #3",
+          "qty": 1,
+          "price": 10,
+          "amount": 20
+        },
+        {
+          "id": 4,
+          "item": "Item #7",
+          "qty": 1,
+          "price": 10,
+          "amount": 20
+        }
+      ]
+    }
+  ]
+}
